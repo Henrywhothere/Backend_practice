@@ -1,0 +1,33 @@
+#Python cache
+__pycache__/
+*.pyc 
+*.pyo 
+*.pyd 
+
+#Virtual environments
+.venv/
+venv/
+
+#Local database
+db.sqlite3
+
+#Git
+.git 
+.gitignore
+
+#Docker
+Dockerfile
+docker-compose.yml
+
+#System files
+.DS_store
+Thumbs.db
+
+#Editor/IDE
+.vscode/
+.idea/
+
+#Static & media
+staticfiles/
+media/
+
